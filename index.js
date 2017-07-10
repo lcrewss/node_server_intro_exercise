@@ -11,7 +11,7 @@ server.get('/contact', function(request, response){
 })
 
 server.get('*', function(request, response){
-  response.status(400)
+  response.status(404)
   response.send('Dude,Wrong page')
 })
 
