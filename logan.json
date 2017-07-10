@@ -1,0 +1,17 @@
+{
+  "full-name": "Logan Crewss",
+  "description": "Awesome!",
+  "pets": [
+    {
+      "name": "Lucy:",
+      "color": "Grey",
+      "kind": "Dog"
+    }
+  ],
+  "favorites": {
+    "color": "Blue",
+    "Age": "27",
+    "Height": "5.8"
+  }
+
+}
